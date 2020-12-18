@@ -1,6 +1,6 @@
 <footer class="main-footer">
     <div class="footer-left">
-        Copyright &copy; 2020 <div class="bullet"></div> Kemahasiswaan FEB UB
+        Copyright &copy; 2020 <div class="bullet"></div> Fakultas Hukum UB
     </div>
 </footer>
 </div>
